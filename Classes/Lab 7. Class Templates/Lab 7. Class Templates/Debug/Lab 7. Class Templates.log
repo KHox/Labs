@@ -1,0 +1,5 @@
+﻿  Lab 7. Class Templates.cpp
+  Time.cpp
+  Создание кода...
+D:\Documents\Labs\Labs\Classes\Lab 7. Class Templates\Lab 7. Class Templates\Vector.h(76): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+  Lab 7. Class Templates.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 7. Class Templates\Debug\Lab 7. Class Templates.exe

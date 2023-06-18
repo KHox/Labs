@@ -1,0 +1,3 @@
+﻿  Vector.cpp
+D:\Documents\Labs\Labs\Classes\Lab 6. Containers\Lab 6. Containers\Vector.cpp(57): warning C4715: Vector::operator[]: значение возвращается не при всех путях выполнения
+  Lab 6. Containers.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 6. Containers\Debug\Lab 6. Containers.exe

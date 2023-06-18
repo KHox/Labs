@@ -1,0 +1,8 @@
+﻿  Lab 11.cpp
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\Task2.h(58,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\Task4.h(59,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\Task4.h(75,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\Task5.h(61,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\Vector.h(114): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
+D:\Documents\Labs\Labs\Classes\Lab 11\Lab 11\VectorSt.h(161): warning C4715: VectorS<Time>::operator[]: значение возвращается не при всех путях выполнения
+  Lab 11.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 11\x64\Debug\Lab 11.exe

@@ -1,0 +1,7 @@
+﻿  Fraction.cpp
+D:\Documents\Labs\Labs\Classes\Lab 1. Classes and objects\Lab 1. Classes and objects\Fraction.cpp(21,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+D:\Documents\Labs\Labs\Classes\Lab 1. Classes and objects\Lab 1. Classes and objects\Fraction.cpp(25,15): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Lab 1. Classes and objects.cpp
+D:\Documents\Labs\Labs\Classes\Lab 1. Classes and objects\Lab 1. Classes and objects\Lab 1. Classes and objects.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Lab 1. Classes and objects.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 1. Classes and objects\Debug\Lab 1. Classes and objects.exe
