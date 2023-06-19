@@ -1,2 +1,4 @@
 ﻿  Lab 12.cpp
+D:\Documents\Labs\Labs\Classes\Lab 12\Lab 12\Task2.h(1,13): warning C4081: требуется "newline"; обнаружен ";"
+D:\Documents\Labs\Labs\Classes\Lab 12\Lab 12\Vector.h(122): warning C4715: Vector<Time>::operator[]: значение возвращается не при всех путях выполнения
   Lab 12.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 12\Debug\Lab 12.exe
