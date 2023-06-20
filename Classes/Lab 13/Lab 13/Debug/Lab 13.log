@@ -1,0 +1,5 @@
+﻿  Lab 13.cpp
+D:\Documents\Labs\Labs\Classes\Lab 13\Lab 13\Task1.h(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Labs\Labs\Classes\Lab 13\Lab 13\Task1.h(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Labs\Labs\Classes\Lab 13\Lab 13\Task2.h(27,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab 13.vcxproj -> D:\Documents\Labs\Labs\Classes\Lab 13\Debug\Lab 13.exe
