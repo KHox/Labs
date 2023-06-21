@@ -8,11 +8,8 @@ struct fraction
 	double first;
 	int second;
 	void Init(int, int);
-	void Read(); //метод для инициализации полей void Read();
-	//метод для чтения значений полей
+	void Read();
 	void Show();
 	int Power();
 	int ipart();
-	//метод для вывода значений полей double Power();
-	//вычисление степени
 };
